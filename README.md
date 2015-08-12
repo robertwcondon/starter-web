@@ -1,5 +1,6 @@
 #Starter Web Project README.md file
 sample website project
+Adding a line for rebasing example.
 ## Introduction
 example to show different parts of the GIT repository and various commands
 ## Purpose
