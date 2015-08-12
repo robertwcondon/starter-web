@@ -9,3 +9,6 @@ blah,blah,blah
 ## How to contribute 
 more updates
 Working dir updates
+
+## Copyright
+2015 Git.BobTraining
