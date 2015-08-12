@@ -14,3 +14,4 @@ Please fork this repository and the issue PULL request for review
 
 ## Copyright
 2015 Git.BobTraining
+editing README.md on myfeature branch.
