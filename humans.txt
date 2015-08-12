@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bob bob@bob.com @bob
 
 # THANKS
 
