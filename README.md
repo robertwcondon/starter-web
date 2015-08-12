@@ -9,6 +9,7 @@ blah,blah,blah
 ## How to contribute 
 more updates
 Working dir updates
+Please fork this repository and the issue PULL request for review
 
 ## Copyright
 2015 Git.BobTraining
