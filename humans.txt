@@ -8,8 +8,11 @@
 # THANKS
 
     to everyone
+	please continue...
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	
+	update for stash branch
